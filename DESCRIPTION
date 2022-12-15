@@ -1,4 +1,4 @@
-Package: rmtbls 
+Package: rmtbls
 Title: R Package Client for the EBI MetaboLights REST endpoint
 Version: 1.0.0
 Authors@R: person("Nils Hoffmann", email = "nils.hoffmann@cebitec.uni-bielefeld.de", role = c("aut", "cre"))

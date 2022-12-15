@@ -470,8 +470,8 @@
 #' }
 #'
 #' @export
-DefaultApi <- R6::R6Class(
-  'DefaultApi',
+MtblsDefaultApi <- R6::R6Class(
+  'MtblsDefaultApi',
   public = list(
     userAgent = "Swagger-Codegen/1.0.0/r",
     apiClient = NULL,

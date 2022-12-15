@@ -5,7 +5,7 @@ Authors@R: person("Nils Hoffmann", email = "nils.hoffmann@cebitec.uni-bielefeld.
 Description: This library implements a REST client for the EBI MetaboLights API endpoint. By default, the development endpoint is used.
 Depends: R (>= 4.1.0)
 Encoding: UTF-8
-License: License: MIT + file LICENSE
+License: MIT + file LICENSE
 LazyData: true
 Suggests: testthat
 Imports: jsonlite, httr, R6
